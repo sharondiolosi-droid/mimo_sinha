@@ -1,0 +1,65 @@
+{
+  "users": {},
+  "coupons": {
+    "MIMOSA10": {
+      "discount": 10,
+      "uses": 100
+    },
+    "VIP2026": {
+      "discount": 20,
+      "uses": 50
+    },
+    "GRATIS": {
+      "discount": 100,
+      "uses": 5
+    }
+  },
+  "models": [
+    {
+      "id": 1,
+      "name": "🌹 Sheron",
+      "handle": "@sheronHot",
+      "slug": "sheron",
+      "price": 29.9,
+      "likes": 482
+    },
+    {
+      "id": 2,
+      "name": "🌸 Annynha",
+      "handle": "@AnnynhaHot",
+      "slug": "annynha",
+      "price": 34.9,
+      "likes": 612
+    },
+    {
+      "id": 3,
+      "name": "🌺 Lari",
+      "handle": "@lariHot",
+      "slug": "lari",
+      "price": 29.9,
+      "likes": 530
+    },
+    {
+      "id": 4,
+      "name": "💋 Biatriz",
+      "handle": "@biatrizHot",
+      "slug": "biatriz",
+      "price": 39.9,
+      "likes": 741
+    },
+    {
+      "id": 5,
+      "name": "🔥 Maju",
+      "handle": "@majuHot",
+      "slug": "maju",
+      "price": 44.9,
+      "likes": 890
+    }
+  ],
+  "orders": {},
+  "stats": {
+    "total_revenue": 0.0,
+    "orders_count": 0,
+    "upsells_count": 0
+  }
+}
