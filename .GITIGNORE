@@ -1,0 +1,10 @@
+@'
+__pycache__/
+*.pyc
+*.db
+.env
+.env.local
+.vscode/
+.idea/
+*.log
+'@ | Out-File -FilePath .gitignore -Encoding ascii
