@@ -1,4 +1,2 @@
-@'
 python-telegram-bot==21.7
 python-dotenv==1.0.1
-'@ | Out-File -FilePath requirements.txt -Encoding ascii
